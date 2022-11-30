@@ -1,2 +1,4 @@
-# web_programming
-HTTP, HTTPS, SSL/TLS, API, HTML and CSS
+## Web Programming
+- HTML vs XHTML
+- HTML vs XML
+- XML vs XHTML
